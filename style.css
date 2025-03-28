@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main_container{
+display: flex;
+text-align: center;
+position: relative;
+border: solid rgba(0, 255, 255, 0.178);
+border-radius: 20px;
+background-color: rgba(0, 255, 255, 0.178);
+color: blue;
+padding: 0px 25px 0px 25px;
+}
+
+.form{
+   margin: 10px;
+   border-radius: 10px;
+   border: transparent;
+   padding: 10px;
+}
+
+h3{
+    color: black
+
+}
+html{
+    line-height: 30px
+}

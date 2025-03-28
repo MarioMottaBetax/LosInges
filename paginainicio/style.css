@@ -1,0 +1,32 @@
+#main_container{
+display: flex;
+height: 100vh;
+}
+.index_container{
+    background-color: rgba(0, 255, 255, 0.192);
+    width: 35%;
+    height: 100%;
+    align-items: center;
+}
+.back_container{
+background-color: rgba(0, 183, 255, 0.418);
+width: 65%;
+}
+nav ul li{
+    margin: 35px 0 35px 0;
+    border: solid;
+}
+ nav ul li a{
+    text-decoration: none;
+ }
+ ul{
+    list-style-type: none;
+    width: 90%;
+ }
+ #Main{
+    text-align: center;
+    font-size: 28px;
+ }
+ .menu_bar{
+    text-align: center;
+ }
